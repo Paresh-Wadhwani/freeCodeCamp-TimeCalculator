@@ -1,3 +1,12 @@
+# freeCodeCamp-TimeCalculator
+Solution to the freeCodeCamp problem "Time Calculator".
+<br><br>
+**Link to the challenge:** https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator
+<br><br>
+**Link to my solution:** https://repl.it/@pareshwadhwani/freeCodeCamp-TimeCalculator
+<br>
+_Code in the above Repl is same as given here._
+<br><br>
 ### Assignment
 
 Write a function named `add_time` that takes in two required parameters and one optional parameter:
